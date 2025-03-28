@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+migrations/
+venv
+media/
+genai
+.env
